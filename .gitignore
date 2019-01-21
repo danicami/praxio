@@ -3,3 +3,5 @@
 ################################################################################
 
 /Webapi_Praxio/obj
+/Webapi_Praxio/bin/Debug/netcoreapp2.2
+/.vs
